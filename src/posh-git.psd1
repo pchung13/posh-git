@@ -26,6 +26,7 @@ FunctionsToExport = @(
     'Add-PoshGitToProfile',
     'Expand-GitCommand',
     'Format-GitBranchName',
+    'Get-GitBranch',
     'Get-GitBranchStatusColor',
     'Get-GitStatus',
     'Get-GitDirectory',

@@ -149,6 +149,7 @@ $exportModuleMemberParams = @{
         'Add-PoshGitToProfile',
         'Expand-GitCommand',
         'Format-GitBranchName',
+        'Get-GitBranch',
         'Get-GitBranchStatusColor',
         'Get-GitDirectory',
         'Get-GitStatus',
